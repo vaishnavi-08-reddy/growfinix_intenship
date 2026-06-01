@@ -1,3 +1,7 @@
+#task3_TITANIC_SURVIVAL_PREDICTION
+https://colab.research.google.com/drive/1lNcKzcLUB9VA7rST0Lb05Ovf5eZBXqKP?usp=sharing
+
+
 #task2_HOUSE_PRICE_PREDICTION
 https://colab.research.google.com/drive/1WBTZT2oUjADInL2pdCN5Rvf94npQ4rjB?usp=sharing
 
