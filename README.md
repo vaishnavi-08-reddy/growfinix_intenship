@@ -8,3 +8,5 @@ https://colab.research.google.com/drive/1WBTZT2oUjADInL2pdCN5Rvf94npQ4rjB?usp=sh
 
 #task4_MOVIE_REVIEW_SENTIMENT
 https://colab.research.google.com/drive/1UZSNB2CLfYMRHsw7EWpcsi2jbSSa-9b8?usp=sharing
+
+Note : Sometimes GitHub preview fails to load graphs and charts properly. Please click the Google Colab links above to view the complete code and output visualizations perfectly.
