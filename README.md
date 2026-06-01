@@ -1,2 +1,6 @@
+#task2_HOUSE_PRICE_PREDICTION
+https://colab.research.google.com/drive/1WBTZT2oUjADInL2pdCN5Rvf94npQ4rjB?usp=sharing
+
+
 #task4_MOVIE_REVIEW_SENTIMENT
 https://colab.research.google.com/drive/1UZSNB2CLfYMRHsw7EWpcsi2jbSSa-9b8?usp=sharing
